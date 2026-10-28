@@ -105,7 +105,7 @@ print(me.introduce())
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/anishindane?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Explore Projects"/>
 </a>
 
@@ -128,23 +128,23 @@ print(me.introduce())
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+<a href="https://github.com/anishindane">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anishindane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Top Programming Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishindane&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Top Programming Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://streak-stats.demolab.com?user=anishindane&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF" alt="GitHub Contribution Streak"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anishindane&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
 
 </div>
 
@@ -155,7 +155,7 @@ print(me.introduce())
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00E5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishindane&bg_color=050816&color=00E5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" width="100%" alt="GitHub Contribution Activity Graph"/>
 </a>
 
 </div>
