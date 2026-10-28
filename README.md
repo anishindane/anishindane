@@ -1,24 +1,96 @@
-<h1 align="center">Hi 👋, I'm Anish Indane</h1>
-<h3 align="center">I am a B.tech CSE Student and a enthusiast Software Engineer</h3>
+<h1 align="center">Hey there, I'm Anish 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishindane&label=Profile%20views&color=0e75b6&style=flat" alt="anishindane" /> </p>
+<h3 align="center">💻 B.Tech CSE Student | Aspiring Software Engineer | Tech Enthusiast 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishindane" alt="anishindane" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/anishindane](https://github.com/anishindane)
-
-- 📫 How to reach me **anishsachinindane@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Building+my+future+with+code;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anish_indane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anish_indane" /></a><a href="https://ko-fi.com/indane_anish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="indane_anish" /></a></p><br><br>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishindane&show_icons=true&locale=en&layout=compact" alt="anishindane" /></p>
+- 🎓 I'm a **B.Tech Computer Science Engineering student**.
+- 💻 I'm passionate about **software development and programming**.
+- 🌱 Currently learning, building projects, and improving my coding skills.
+- 🛠️ I work with **HTML, CSS, JavaScript, and Python**.
+- 🎯 My goal is to become a skilled software engineer and build impactful applications.
+- ⚡ I believe in learning by building and improving every day.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishindane&show_icons=true&locale=en" alt="anishindane" /></p>
+---
+
+## 💻 Tech Stack & Skills
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### 🐍 Programming Language
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 📌 What I'm Working On
+
+- 🌐 Developing responsive websites using HTML, CSS, and JavaScript.
+- 🐍 Practising Python programming and problem-solving.
+- 💡 Exploring new technologies and software development concepts.
+- 🚀 Building projects to turn ideas into reality.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+<p align="center">
+  <i>"Great software is built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey.
+</p>
+
+<h3 align="center">💻 Keep Coding. Keep Building. Keep Growing. 🚀</h3>
