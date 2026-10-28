@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Anish 👋</h1>
+<h1 align="center">Hey there, I'm Anish Indane 👋</h1>
 
 <h3 align="center">💻 B.Tech CSE Student | Aspiring Software Engineer | Tech Enthusiast 🚀</h3>
 
@@ -73,10 +73,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/anishindane">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/Anish Indane/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
