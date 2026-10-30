@@ -1,6 +1,6 @@
 <!--
     ANISH INDANE | ULTIMATE CYBERPUNK DEVELOPER PROFILE
-    Replace YOUR_USERNAME and YOUR_LINKEDIN_USERNAME with your actual usernames.
+    Replace anishindane and Anish Indane with your actual usernames.
 -->
 
 <div align="center">
