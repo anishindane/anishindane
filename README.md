@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:111C44,75:5425A8,100:00E5FF&text=ANISH&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=CODE.%20CREATE.%20CONQUER.&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Anish Cyberpunk Header"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anishindane">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&height=55&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+Web+Development;Building+the+Future%2C+One+Line+at+a+Time+%E2%9A%A1" alt="Animated Introduction"/>
 </a>
 
@@ -132,13 +132,13 @@ print(me.introduce())
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=anishindane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anishindane">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishindane&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Top Programming Languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anishindane">
 <img src="https://streak-stats.demolab.com?user=anishindane&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF" alt="GitHub Contribution Streak"/>
 </a>
 
@@ -154,7 +154,7 @@ print(me.introduce())
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anishindane">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishindane&bg_color=050816&color=00E5FF&line=BD00FF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" width="100%" alt="GitHub Contribution Activity Graph"/>
 </a>
 
