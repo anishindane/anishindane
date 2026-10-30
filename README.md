@@ -37,7 +37,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Anish"
+        self.name = "Anish Indane"
         self.role = "B.Tech CSE Student"
         self.goal = "Aspiring Software Engineer"
         self.languages = ["Python", "JavaScript", "HTML", "CSS"]
