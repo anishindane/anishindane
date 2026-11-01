@@ -52,8 +52,8 @@ class Developer:
     def introduce(self):
         return "Turning ideas into code and code into reality."
 
-me = Developer()
-print(me.introduce())
+me = Developer(anishindane)
+print(me.introduce(anishindane))
 ```
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**.
